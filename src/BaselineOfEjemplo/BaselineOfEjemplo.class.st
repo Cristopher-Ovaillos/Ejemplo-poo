@@ -12,8 +12,12 @@ BaselineOfEjemplo >> baseline: spec [
 		do: [
 			"The main code of the baseline will go here"
 			spec 
-				package: 'ejemplo-POO-cris'
-				
+				package: 'ejemplo-POO-cris-EjBoton';
+				package: 'ejemplo-POO-cris-EjBuscador';
+				package: 'ejemplo-POO-cris-EjDependent';
+				package: 'ejemplo-POO-cris-EjIntroducirDato';
+				package: 'ejemplo-POO-cris-EjLista';
+				package: 'ejemplo-POO-cris-EjSeleccion'
 		]
 ]
 
