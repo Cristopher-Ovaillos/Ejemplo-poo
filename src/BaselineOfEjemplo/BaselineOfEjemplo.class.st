@@ -6,11 +6,15 @@ Class {
 
 { #category : #baselines }
 BaselineOfEjemplo >> baseline: spec [
-
 	<baseline>
 	spec
-		for: #pharo
-		do: [ "Packages" spec package: 'ejemplo-POO-cris' ]
+		for: #common
+		do: [
+			"The main code of the baseline will go here"
+			spec 
+				package: 'ejemplo-POO-cris'
+				
+		]
 ]
 
 { #category : #baselines }
