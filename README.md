@@ -1,4 +1,5 @@
 Metacello new
-repository: 'github.com/Cristopher-Ovaillos/Ejemplo-poo';
-baseline: 'Ejemplo';
-load
+    repository: 'github.com/Cristopher-Ovaillos/Ejemplo-poo';
+    baseline: 'Ejemplo';
+    load.
+
