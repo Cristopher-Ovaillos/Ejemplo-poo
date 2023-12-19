@@ -1,6 +1,9 @@
+```sh
 Metacello new
-    repository: 'github.com/Cristopher-Ovaillos/Ejemplo-poo';
-    baseline: 'Ejemplo';
-    load.
+	githubUser: 'Cristopher-Ovaillos' project: 'Ejemplo-poo' commitish: 'master' path: 'src';
+	baseline: 'Ejemplo';
+	load
+```
+
 
 
